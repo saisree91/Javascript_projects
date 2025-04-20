@@ -1,0 +1,29 @@
+#heading{
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    height: 50px;
+    width: 50px;
+}
+
+.backspace{
+    width: 100px;
+}
+
+.row2{
+    margin-bottom: 8px;
+}
+
+#input{
+    height: 30px;
+    width: 203px;
+    margin-bottom: 8px;
+    background-color: rgb(231, 233, 236);
+}
